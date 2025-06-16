@@ -27,7 +27,8 @@ dependencies = [
     'gpy',
     'Pillow',
     'h5py'
-#    TODO: add LibCBDetect dependencies when available on PyPi
+    'albumentations'
+    #    TODO: add LibCBDetect dependencies when available on PyPi
 ]
 [project.urls]
 "Homepage" = "https://github.com/InViLabUAntwerp/PyCBD"
